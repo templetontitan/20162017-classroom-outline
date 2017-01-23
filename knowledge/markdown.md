@@ -14,14 +14,16 @@ looks like this:
 # Heading 1
 ## Heading 2
 ### Heading 3
----
+
+### ---
 this link code:
 ```
 [Markdown Cheatsheet pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 ```
 looks like:
 [Markdown Cheatsheet pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
----
+
+### ---
 ```
 * Unordered list can use asterisks
   - Or minuses and indented for sub-lists
@@ -30,7 +32,8 @@ looks like:
 * Unordered list can use asterisks
   - Or minuses and indented for sub-lists
 + Or pluses
----
+
+### ---
 To Do list code is:
 ```
 -  [ ] task 1
@@ -42,7 +45,8 @@ and looks like:
 -  [ ] task 1
   -  [ ]  sub-task 1a and can be indented
 -  [ ] task 2
----
+
+### ---
 Finally, 
 
 ```
