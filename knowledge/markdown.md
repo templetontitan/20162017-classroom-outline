@@ -21,6 +21,15 @@ this link code:
 looks like:
 [Markdown Cheatsheet pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
+```
+* Unordered list can use asterisks
+  - Or minuses and indented for sub-lists
++ Or pluses
+```
+* Unordered list can use asterisks
+  - Or minuses and indented for sub-lists
++ Or pluses
+
 ## Markdown resources
 * [Markdown Cheatsheet pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 * [Markdown Cheatsheet GitHub repo](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
