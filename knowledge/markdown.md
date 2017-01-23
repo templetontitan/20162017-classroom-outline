@@ -30,10 +30,45 @@ looks like:
   - Or minuses and indented for sub-lists
 + Or pluses
 
+To Do list code is:
+```
+-  [ ] task 1
+  -  [ ]  sub-task 1a and can be indented
+-  [ ] task 2
+```
+and looks like:
+
+-  [ ] task 1
+  -  [ ]  sub-task 1a and can be indented
+-  [ ] task 2
+
+Finally, 
+```
+Inline `code` has `back-ticks around` it.
+```
+
+Inline `code` has `back-ticks around` it.
+
+blocks of code use 3 ticks around them:
+
+    ```
+    No language indicated, so no syntax highlighting. 
+    But let's throw in a <b>tag</b>.
+     ```
+    
+```
+No language indicated, so no syntax highlighting. 
+But let's throw in a <b>tag</b>.
+```    
+
+
+That should get you started!
+
 ## Markdown resources
 * [Markdown Cheatsheet pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 * [Markdown Cheatsheet GitHub repo](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Mastering Markdown - GitHub Guide](https://guides.github.com/features/mastering-markdown/)
+* [Github-flavored Markdown info page](https://help.github.com/categories/writing-on-github/)
 
 <!--
 + []()
