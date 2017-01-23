@@ -2,6 +2,8 @@
 
 ## What is Markdown?
 
+Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
+
 ## Minimal Markdown to Know
 
 This Code: 
