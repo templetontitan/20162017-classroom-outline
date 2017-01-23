@@ -43,19 +43,21 @@ and looks like:
 -  [ ] task 2
 
 Finally, 
+
 ```
 Inline `code` has `back-ticks around` it.
 ```
 
 Inline `code` has `back-ticks around` it.
 
-blocks of code use 3 ticks around them:
 
+    blocks of code use 3 ticks around them:
     ```
     No language indicated, so no syntax highlighting. 
     But let's throw in a <b>tag</b>.
-     ```
+    ```
     
+
 ```
 No language indicated, so no syntax highlighting. 
 But let's throw in a <b>tag</b>.
